@@ -11,7 +11,6 @@ Two years of experiece in developing mobile applications in the form of freelanc
 - 📫  How to reach me: hosseinspell@gmail.com
 
 ### Links
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/husen_hn)
 [![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/hassannejad)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-hassannejad)
 
