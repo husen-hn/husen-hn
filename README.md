@@ -26,5 +26,5 @@ Two years of experiece in developing mobile applications in the form of freelanc
 [![Firebase](https://img.shields.io/badge/firebase-f5820d?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
 [![OOP](https://img.shields.io/badge/oop-000?style=for-the-badge&logo=Open%20Collective&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 [![Bloc](https://img.shields.io/badge/flutter%20bloc-1698d9?style=for-the-badge&logo=Artifact%20Hub&logoColor=white)](https://bloclibrary.dev)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
