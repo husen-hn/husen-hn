@@ -1,12 +1,12 @@
 ### Hey, I'm Hossein HassanNejad 👋
-I'm a software engineer and a freelancer, building high-performance, Frond-End and mobile applications. I do almost all of my work in Dart and Javascript.
+I'm a software engineer and a freelancer, building high-performance, Frond-End and mobile applications. I do almost all of my work in Dart and Typescript.
 
 ---
 
 ### Experience
-Two years of experiece in developing mobile applications in the form of freelance and full-time.
+Two years of experience in developing mobile applications in the form of freelance and full-time.
 
-- 🔭 &nbsp; I’m currently working on a Dart and Flutter open source android moblie application for ([MishkaCms](https://github.com/mishka-group/mishka-cms))
+- 🔭 &nbsp; I’m currently working on a Dart and Flutter android mobile application for ([Freemake]())
 - 🌱 &nbsp; I'm currently learning about Clean Architecture with Dart. and recently Javascript
 - 📫 &nbsp; How to reach me: hosseinspell@gmail.com
 
@@ -14,7 +14,7 @@ Two years of experiece in developing mobile applications in the form of freelanc
 [![Blog Badge](https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=blog&logoColor=white)](https://husen.netlify.app)
 [![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/hassannejad)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-hassannejad)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HusenDev_)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/husen_hn)
 
 ### Languages and Tools
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
