@@ -7,7 +7,7 @@ I'm a software engineer and a freelancer, building high-performance, Frond-End a
 Two years of experience in developing mobile applications in the form of freelance and full-time.
 
 - 🔭 &nbsp; I’m currently working on a Dart and Flutter android mobile application for ([Freemake](https://husen-hn.github.io/freemake-page/))
-- 🔭 &nbsp; I’m currently working on a Dart Package too, for ([nyx_converter]([https://husen-hn.github.io/freemake-page/](https://github.com/xaus-group/nyx_converter)))
+- 🔭 &nbsp; I’m currently working on a Dart Package too, for ([nyx_converter](https://github.com/xaus-group/nyx_converter))
 - 🌱 &nbsp; I'm currently learning about Clean Architecture with Dart. and recently Javascript
 - 📫 &nbsp; How to reach me: hosseinspell@gmail.com
 
