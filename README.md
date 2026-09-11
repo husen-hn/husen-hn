@@ -12,8 +12,8 @@ Software Engineer building scalable mobile, web, and backend applications with F
 
 ### Featured Projects
 
-* [**Nyx Converter**](https://pub.dev/packages/nyx_converter) — Open-source Flutter package published on pub.dev.
-* [**Freemake**](https://husen-hn.github.io/freemake-page/) — Media conversion application built with Flutter.
+* [**Nyx Converter**](https://xaus-group.github.io/nyx_converter/) — Open-source Flutter package published on pub.dev.
+* [**Freemake**](https://freemake-app.netlify.app/) — Media conversion application built with Flutter.
 
 ⚡ Currently building Flutter and Django applications and contributing to open source.
 
